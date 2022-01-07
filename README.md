@@ -10,7 +10,7 @@ Find out more about me & feel free to connect with me here:
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
 
-<!-- 	<a href="https://dev.to/raman_boddula">
+ 	<a href="https://dev.to/raman_boddula">
 		<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
 	</a> -->
 	<a href="https://dev.to/raman_boddula">
