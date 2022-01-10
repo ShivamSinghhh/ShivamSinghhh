@@ -15,7 +15,7 @@ Find out more about me & feel free to connect with me here:
         <a href="https://portfolio-shivamsinghhh.vercel.app/">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
-        <a href="sssingh1808@gmail.com">
+        <a href="mailto:sssingh1808@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 
