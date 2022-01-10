@@ -6,7 +6,7 @@ I am Shivam Singh, i have completed my Bachelor's of engineering in Civil Engine
 Find out more about me & feel free to connect with me here:
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/pavan-kumar-thota1" target="_blank">
+	<a href="https://www.linkedin.com/in/shivam-singh04/" target="blank">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
 	<a href="https://twitter.com/Pavan_Kumar_365">
