@@ -1,7 +1,7 @@
 # Hey, I am Shivam! Great to see you here! <img src="https://raw.githubusercontent.com/ThotaPavanKumar/ThotaPavanKumar/main/wave.gif" width="30px">
 
 
-I am Shivam Singh, i have completed my Bachelor's of engineering in Civil Engineering from [UPTU](https://aktu.ac.in/). I am a  aspriring full stack web developer I am always open to collaborating on projects with innovative ideas and great problem solving manner. When I am not coding, you'll find me listening to music or playing  games .
+I am Shivam Singh, i have completed my Bachelor's of engineering from Uttar Pradesh Technical University[UPTU](https://aktu.ac.in/). I am a  aspriring full stack web developer I am always open to collaborating on projects with innovative ideas and great problem solving manner. When I am not coding, you'll find me listening to music or playing  games .
 
 Find out more about me & feel free to connect with me here:
 
@@ -46,7 +46,6 @@ Find out more about me & feel free to connect with me here:
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
@@ -59,9 +58,8 @@ Find out more about me & feel free to connect with me here:
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-<!-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) -->
-<!-- ![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) -->
-<!-- ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) -->
+![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+
 
 ## 📈 Stats
 
