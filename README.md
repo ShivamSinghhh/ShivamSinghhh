@@ -1,7 +1,7 @@
 # Hey, I am Shivam! Great to see you here! <img src="https://raw.githubusercontent.com/ThotaPavanKumar/ThotaPavanKumar/main/wave.gif" width="30px">
 
 
-I am Shivam Singh, i have completed my Bachelor's of engineering from Uttar Pradesh Technical University[UPTU](https://aktu.ac.in/). I am an aspriring full stack web developer I am always open to collaborating on projects with innovative ideas and great problem solving manner. When I am not coding, you'll find me listening to music or playing  games .
+I am Shivam Singh, I have completed my Bachelor's of engineering from Uttar Pradesh Technical University[UPTU](https://aktu.ac.in/). I am an aspriring full stack web developer I am always open to collaborating on projects with innovative ideas and great problem solving manner. When I am not coding, you'll find me listening to music or playing  games .
 
 Find out more about me & feel free to connect with me here:
 
