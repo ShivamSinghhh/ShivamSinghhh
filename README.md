@@ -9,9 +9,7 @@ Find out more about me & feel free to connect with me here:
 	<a href="https://www.linkedin.com/in/shivam-singh04/" target="blank">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>	
-	<a href="https://www.instagram.com/cvam_singhh/" target="blank">
-		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-	</a>
+	
         <a href="https://portfolio-shivamsinghhh.vercel.app/">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
