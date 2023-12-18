@@ -1,5 +1,4 @@
-# Hey, I am Shivam! Great to see you here! <img src="https://github.com/ShivamSinghhh/Assets/blob/main/gif/wave.gif" width="30px">
-
+# Hey, I am Shivam! Great to see you here! <img src="https://raw.githubusercontent.com/ShivamSinghhh/Assets/blob/main/gif/wave.gif" width="30px">
 
 An Enthusiastic and creative full-stack web developer with expertise in MERN Stack, bringing nearly 2 years of experience as a frontend developer (React) with a track record of delivering industry-level projects. I am always open to collaborating on projects with innovative ideas and great problem solving manner. When I am not coding, you'll find me listening to music or playing  games.
 
