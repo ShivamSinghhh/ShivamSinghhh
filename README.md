@@ -1,4 +1,4 @@
-# Hey, I am Shivam! Great to see you here! <img src="https://raw.githubusercontent.com/ThotaPavanKumar/ThotaPavanKumar/main/wave.gif" width="30px">
+# Hey, I am Shivam! Great to see you here! <img src="https://github.com/ShivamSinghhh/Assets/blob/main/gif/wave.gif" width="30px">
 
 
 An Enthusiastic and creative full-stack web developer with expertise in MERN Stack, bringing nearly 2 years of experience as a frontend developer with a track record of delivering industry-level projects. I am always open to collaborating on projects with innovative ideas and great problem solving manner. When I am not coding, you'll find me listening to music or playing  games.
@@ -6,10 +6,10 @@ An Enthusiastic and creative full-stack web developer with expertise in MERN Sta
 Find out more about me & feel free to connect with me here:
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/shivam-singh04/" rel="noopener" target="_blank">
+	<a href="https://www.linkedin.com/in/shivam-singh04/" target="_blank">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>	
-        <a href="https://portfolio-shivamsinghhh.vercel.app/" rel="noopener" target="_blank">
+        <a target="_blank" href="https://portfolio-shivamsinghhh.vercel.app/">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
         <a href="mailto:sssingh1808@gmail.com">
