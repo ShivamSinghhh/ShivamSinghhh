@@ -1,6 +1,12 @@
 # Hey, I am Shivam! Great to see you here! <img src="https://raw.githubusercontent.com/ShivamSinghhh/Assets/main/gif/wave.gif" width="30px">
 
-An Enthusiastic and creative full-stack web developer with expertise in MERN Stack, bringing nearly 2 years of experience as a frontend developer (React) with a track record of delivering industry-level projects. I am always open to collaborating on projects with innovative ideas and great problem solving manner. When I am not coding, you'll find me listening to music or playing  games.
+Software Engineer with ~5 years of experience building scalable web applications using React, TypeScript, and modern frontend architectures. I’ve also worked on backend systems using Node.js and NestJS, focusing on APIs and data workflows.
+
+I enjoy solving complex UI and performance challenges, especially in data-driven applications involving charts, spreadsheets, and real-time interactions.
+
+Currently exploring Python and improving my full-stack system design skills.
+
+Outside of coding, I enjoy music and badminton.
 
 Find out more about me & feel free to connect with me here:
 
