@@ -1,12 +1,10 @@
 # Hey, I am Shivam! Great to see you here! <img src="https://raw.githubusercontent.com/ShivamSinghhh/Assets/main/gif/wave.gif" width="30px">
 
-Software Engineer with ~5 years of experience building scalable web applications using React, TypeScript, and modern frontend architectures. I’ve also worked on backend systems using Node.js and NestJS, focusing on APIs and data workflows.
+Full-Stack Engineer with ~5 years of experience developing high-performance web applications and production-ready Generative AI systems. I build end-to-end solutions combining responsive, real-time React/TypeScript frontends with resilient Node.js, NestJS, and Python backends. 
 
-I enjoy solving complex UI and performance challenges, especially in data-driven applications involving charts, spreadsheets, and real-time interactions.
+My focus includes architecting Agentic AI systems—leveraging LLMs for multi-step reasoning, tool execution, and dynamic context retrieval. I excel at resolving complex data-visualization and UI-performance bottlenecks. 
 
-Currently exploring Python and improving my full-stack system design skills.
-
-Outside of coding, I enjoy music and badminton.
+Outside of engineering, I enjoy music and badminton.
 
 Find out more about me & feel free to connect with me here:
 
